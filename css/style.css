@@ -1,11 +1,8 @@
-.container{
-    margin: auto;
-    margin-bottom: 4px;
-    border: 3px solid;
-    padding: 10px;
-    -webkit-box-shadow: 7px 7px 10px -3px rgba(0,0,0,0.75);
-    -moz-box-shadow: 7px 7px 10px -3px rgba(0,0,0,0.75);
-    box-shadow: 7px 7px 10px -3px rgba(0,0,0,0.75);
+body{
+    font-family: 'Raleway', sans-serif;
+}
+main{
+    padding-bottom: 75px;
 }
 form{
     width: 100%;

@@ -10,3 +10,11 @@ A simple PHP-written admin application form for various Steam Communities, surro
 <li>Sendmail</li>
 
 <p>This application is easy to implement and simple to use. All you need to use this application, is edit the config.php to your liking.</p>
+
+<h5>Legal Info</h5>
+<ul>Uses
+    <li>Twitter Bootstrap</li>
+    <li>JQuery</li>
+    <li>FontAwesome</li>
+    <li><a href="https://github.com/SmItH197/SteamAuthentication">SteamAuthentication by SmItH197</a></li>
+</ul>
