@@ -8,6 +8,7 @@ A simple PHP-written admin application form for various Steam Communities, surro
 <li>Some web sevrer application (duh...)</li>
 <li>PHP 5.6</li>
 <li>Sendmail</li>
+</ul>
 
 <p>This application is easy to implement and simple to use. All you need to use this application, is edit the config.php to your liking.</p>
 
