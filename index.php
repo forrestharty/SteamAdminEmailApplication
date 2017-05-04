@@ -110,10 +110,10 @@ $mailDidSendToAllAdmins = false;
             $mail = mail($recipient, "Admin Application - $name", 'Applicant Name: ' . $name . "\n\nApplicant Steam ID: " . $id. "\n\nAdmin Recommendation: " . $recommender . "\n\nResumé: \n" . $message, $visitorEmail);
             if($adminEmailDebugger == 'on'){
                 if($mail){
-                    echo "<div class='well'>Email Sent to $re. Thank you!</div>";
+                    echo "<div class='well'>Email Sent to $recipient. Thank you!</div>";
                 }
                 else{
-                    echo "<div class='well'>An error has occurred sending email to $re</div>";
+                    echo "<div class='well'>An error has occurred sending email to $recipient</div>";
                 }
             }
             $mailDidSendToAllAdmins = $mail;
