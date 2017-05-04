@@ -1,5 +1,5 @@
 # AdminEmailApplication
-No Steam API or MySQL required!
+<h2>No Steam API or MySQL required!</h2>
 A simple PHP-written admin application form for various Steam Communities, surrounding titles like Garry's Mod, Counter Strike: GO, and Team Fortress 2.
 
 ----------------------------
