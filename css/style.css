@@ -1,0 +1,18 @@
+.container{
+    margin: auto;
+    margin-bottom: 4px;
+    border: 3px solid;
+    padding: 10px;
+    -webkit-box-shadow: 7px 7px 10px -3px rgba(0,0,0,0.75);
+    -moz-box-shadow: 7px 7px 10px -3px rgba(0,0,0,0.75);
+    box-shadow: 7px 7px 10px -3px rgba(0,0,0,0.75);
+}
+form{
+    width: 100%;
+}
+textarea{
+    min-width: 100%;
+    max-width: 100%;
+    min-height: 125px;
+    box-sizing: border-box;
+}
